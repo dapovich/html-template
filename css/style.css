@@ -1,0 +1,26 @@
+html {
+    font-size: 15px;
+}
+
+body {
+   font-size: 1em;
+   margin: 0;
+   padding: 0;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: yellow;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
