@@ -1,5 +1,7 @@
-1. $git init
-2. $git config --local user.name "[name]" (optional)
-3. $git config --local user.email "[email-name]" (optional)
-4. $git add -A, or $git add . (to add files on repositery)
-5. $git commmit . -m"[nameOfCommit]"
+1. $ git init
+2. $ git config --local user.name "[name]" (optional)
+3. $ git config --local user.email "[email-name]" (optional)
+4. $ git add -A, or $ git add . (to add files on repositery)
+5. $ git commmit . -m"[nameOfCommit]"
+6. $ git push -u [name-of-project] [name-of-branch]
+7. $ git pull
